@@ -1,0 +1,6 @@
+Javac jave file name : command used to compile the java file.
+Jav class file name : command used to run the java class files.
+Jar cf jarfilename.jar javaclassfilename : command used to create jar file from java class file.
+Java -classpath jarfilename.jar javaclass : used to run the java class using jar file.
+Unzip jarfilename- used to unzip the jar file
+"Duke" is an open source image commonly assosiated with java
